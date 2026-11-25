@@ -4,7 +4,7 @@ Geospatial Strategy Consultant ([GEODECI](https://geodeci.xyz/)).
 
 ## VTT
 
-Field technical inspection and decision platform built on QGIS 4 / Qt 6, PostGIS, and offline QField: live map dial, KPI dashboards, tour planning with conflict detection, SHA-256 USB/ZIP sync, and transactional field returns. ([Overview](https://geodeci.xyz/plugins/vtt))
+Field technical inspection and decision platform built on QGIS 4 / Qt 6, PostGIS, and offline QField (v2.1.2): live map dial, KPI dashboards, multi-week team Gantt calendar, cartographic sketch studio, decision workbench with PRO/EXE reprise, and SHA-256 USB/ZIP sync. ([Overview](https://geodeci.xyz/plugins/vtt))
 
 <a href="https://geodeci.xyz/plugins/vtt">
   <img src="assets/vtt-showcase.webp" alt="VTT - Field Inspection and Decision Platform showcase" width="100%" />
